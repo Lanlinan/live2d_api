@@ -1,0 +1,22 @@
+{
+  "name": "ylan-live2dapi",
+  "version": "1.0.0",
+  "description": "看板娘后端api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanlinan/live2d_api.git"
+  },
+  "keywords": [
+    "板娘api"
+  ],
+  "author": "Lanlinan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lanlinan/live2d_api/issues"
+  },
+  "homepage": "https://github.com/Lanlinan/live2d_api#readme"
+}
