@@ -1,6 +1,6 @@
 {
   "name": "ylan-live2dapi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "看板娘后端api",
   "main": "index.js",
   "scripts": {
