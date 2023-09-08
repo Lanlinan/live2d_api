@@ -156,10 +156,6 @@
     "sagiri",
     "chino",
     [
-      "ShizukuTalk/shizuku-48",
-      "ShizukuTalk/shizuku-pajama"
-    ],
-    [
       "HyperdimensionNeptunia/neptune_classic",
       "HyperdimensionNeptunia/nepnep",
       "HyperdimensionNeptunia/nepmaid",
@@ -176,7 +172,6 @@
     "お帰りなさい",
     "埃罗芒阿三赛？我...我才不认识这人呢！",
     "欢迎光临Rabbit house ~",
-    "Shizuku Talk ！这里是 Shizuku ~",
     "Nep! Nep! 超次元游戏：海王星 系列"
   ]
 }
